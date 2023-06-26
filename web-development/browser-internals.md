@@ -1,8 +1,8 @@
-# A bottomless pit of useful browser information
+# Browser internals
 
 That is, The Chromium Projects' ["For Developers"](https://sites.google.com/a/chromium.org/dev/developers) section and its newer but seemingly more scarce [version](https://chromium.googlesource.com/chromium/src/+/main/docs/README.md).
 
-### Favorite chapters
+### Favorite
 
 - [Compositor Thread Architecture](https://www.chromium.org/developers/design-documents/compositor-thread-architecture/)
 
