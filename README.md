@@ -7,4 +7,4 @@
 
 ### Other relevant research
 
-- [Embracing algorithms](./general/embracing-algorithms.md)
+- [Embracing algorithms](./software-engineering/embracing-algorithms.md)
