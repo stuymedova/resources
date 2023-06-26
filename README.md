@@ -8,3 +8,4 @@
 ### Other relevant research
 
 - [Embracing algorithms](./software-engineering/embracing-algorithms.md)
+- [JavaScript](./web-development/javascript.md)
