@@ -1,9 +1,5 @@
 # Working on Digital
 
-From people who design and build digital products for people who do too.
-
-### Resources
-
 - [Dropbox](https://dropbox.tech)
 - [Figma](https://www.figma.com/blog/)
 - [Jane Street](https://blog.janestreet.com)
