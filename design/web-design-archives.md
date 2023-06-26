@@ -1,4 +1,4 @@
-# Web Design archives
+# Web design archives
 
 - [Hoverstates](https://www.hoverstat.es)
 - [Godly](https://godly.website)

@@ -1,4 +1,4 @@
-# Designers & Design Studios (Digital)
+# Designers & design studios
 
 ## Designers
 

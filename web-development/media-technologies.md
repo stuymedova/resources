@@ -1,4 +1,4 @@
-# Media Technologies
+# Media technologies
 
 - [Apple HTTP Live Streaming (HLS)](https://developer.apple.com/streaming/)
 - [MDN Audio and Video Delivery](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery)

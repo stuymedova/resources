@@ -1,4 +1,4 @@
-# Research
+# Resources
 
 ### Most relevant research
 

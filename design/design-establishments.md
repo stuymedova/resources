@@ -1,4 +1,4 @@
-# Design Establishments
+# Design establishments
 
 ## Museums
 

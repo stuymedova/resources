@@ -1,4 +1,4 @@
-# Embracing Algorithms
+# Embracing algorithms
 
 `.`  
 `└── Talk:` [Embracing Algorithms — Dave Abrahams](https://developer.apple.com/videos/play/wwdc2018/223/)  

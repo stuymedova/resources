@@ -1,4 +1,4 @@
-# Typefaces & Type Foundries
+# Typefaces & type foundries
 
 ## Typefaces
 

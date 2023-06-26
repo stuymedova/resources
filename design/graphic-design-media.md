@@ -1,8 +1,8 @@
-# Graphic Design Media
+# Graphic design media
 
 ## News
 
-- [It's nice that](https://www.itsnicethat.com)
+- [It's Nice That](https://www.itsnicethat.com)
 
 ## Interviews
 

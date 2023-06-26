@@ -1,4 +1,4 @@
-# Working on Digital
+# Working on digital
 
 - [Dropbox](https://dropbox.tech)
 - [Figma](https://www.figma.com/blog/)
