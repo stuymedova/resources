@@ -30,3 +30,4 @@
 - [[App Dev] Ultimate application performance survival guide](https://developer.apple.com/videos/play/wwdc2021/10181)
 - [[App Dev] Demystify and eliminate hitches in the render phase](https://developer.apple.com/videos/play/tech-talks/10857)
 - [[App Dev] Find and fix hitches in the commit phase](https://developer.apple.com/videos/play/tech-talks/10856)
+- [[App Dev] Demystify SwiftUI performance](https://developer.apple.com/videos/play/wwdc2023/10160/)
