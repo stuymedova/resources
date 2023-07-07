@@ -1,4 +1,4 @@
-# Animations
+# Animation
 
 - [rAF](https://www.youtube.com/watch?v=wSEU7ivOnzc)
 - [Tweening and easing implementations](https://www.youtube.com/watch?v=ZPlYZRubXkU)
